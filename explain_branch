@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+By creating and switching to a new branch, any subsequent changes will affect only this branch, and not the original. 
+Thus branches enable independent working on different versions.
+These different versions can then be merged to form a final version.
